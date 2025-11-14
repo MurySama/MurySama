@@ -17,7 +17,7 @@
 
 ## 📖 About me
 
-* 💻 Network & systems administrator (Proxmox, Docker...)
+* 💻 Network & Systems Administrator
 * ⚙️ Self-hosted SysOps / DevOps enthusiast
 * 🎵 Dub maker (Warrior Vibration Sound System)
 * 🛡️ World of Warcraft player (PAL.RET / DH.TANK)
